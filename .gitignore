@@ -13,6 +13,7 @@ frontend/dist
 
 build/bin
 frontend/wailsjs
+frontend/dist
 logs
 *.log
 
@@ -30,6 +31,9 @@ go.work
 .env
 resource.syso
 .DS_Store
+dist
+.npmrc
+.cache
 
 package-lock.json
 package.json.md5

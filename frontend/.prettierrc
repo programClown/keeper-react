@@ -1,0 +1,10 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "useTabs": false,
+    "printWidth": 100,
+    "trailingComma": "all",
+    "proseWrap": "never",
+    "endOfLine": "auto",
+    "htmlWhitespaceSensitivity": "strict"
+}

@@ -8,6 +8,13 @@
   "frontend:dev:serverUrl": "auto",
   "author": {
     "name": "codeClown",
-    "email": "zhaomengshou@126.com"
-  }
+    "email": "codeClown@126.com"
+  },
+  "info": {
+    "companyName": "瓷器制药厂",
+    "productName": "keeper-react",
+    "productVersion": "0.0.1",
+    "comments": "不知道该说些什么，给您唱支歌吧"
+  },
+  "obfuscated": true
 }
